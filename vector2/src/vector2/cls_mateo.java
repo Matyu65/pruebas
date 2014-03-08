@@ -11,5 +11,6 @@ package vector2;
  * @author 3
  */
 public class cls_mateo {
+    private double mateo;
     
 }
