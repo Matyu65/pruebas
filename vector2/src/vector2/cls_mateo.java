@@ -42,5 +42,5 @@ public class cls_mateo {
     public void setNumero(int numero) {
         this.numero = numero;
     }
-    
+    //////////este fue cambiado
 }
