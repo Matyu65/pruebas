@@ -42,8 +42,7 @@ public class cls_mateo {
     public void setNumero(int numero) {
         this.numero = numero;
     }
-    //////////este fue cambiado 
+    //////////este fue cambiado hoyyyyyyyyyyyyyyy
     
-    ///baboso y7 mentiroso
-    ///modificado katerine rpo
+   
 }
